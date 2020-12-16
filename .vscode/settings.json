@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "cpenv\\Scripts\\python.exe",
+    "editor.defaultFormatter": "batisteo.vscode-django"
+}
